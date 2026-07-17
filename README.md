@@ -5,5 +5,5 @@ This repository contains a Confirmatory Factor Analysis (CFA) example using the 
 - CFA-lavaan.R : R script
 - CFA-demo-report.pdf : report
 
-# Dataset
+## Dataset
 Holzinger and Swineford (1939)
