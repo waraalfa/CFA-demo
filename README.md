@@ -1,7 +1,7 @@
 # CFA Demo
 This repository contains a Confirmatory Factor Analysis (CFA) example using the lavaan package in R.
 
-# Files
+## Files
 - CFA-lavaan.R : R script
 - CFA-demo-report.pdf : report
 
